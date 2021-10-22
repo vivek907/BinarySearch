@@ -4,6 +4,7 @@ public class BinarySearch {
 // r], else return -1
 
     //This is an int function
+    //Testing
     int binarySearch(int arr[], int l, int r, int x)
     {
         if (r >= l) {
